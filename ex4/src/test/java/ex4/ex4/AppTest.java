@@ -1,5 +1,15 @@
 package ex4.ex4;
+/**
+ * Hello world!
+ *
+ */
 
+/*
+ *		    שמות סטודנטים:
+ *		    נגים אלדין זועבי 324887983
+			אחמד זועבי       213027667
+
+ */
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;

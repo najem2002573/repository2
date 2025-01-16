@@ -2,7 +2,18 @@ package ex4.ex4;
 
 /**
  * Hello world!
+ * /**
+ * Hello world!
+ *
  */
+
+/*
+ *		    שמות סטודנטים:
+ *		    נגים אלדין זועבי 324887983
+			אחמד זועבי       213027667
+
+ */
+ 
 
 public class Triangle_clf_types {
 
